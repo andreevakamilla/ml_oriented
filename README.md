@@ -1,6 +1,6 @@
 # Репозиторий с проектами по машинному обучению и анализу данных
 
-[Классификация методом ближайшего соседа на примере Титаника](https://github.com/andreevakamilla/ml_oriented/blob/main/titanic.ipynb)
+[Классификация методом ближайшего соседа на примере Титаника](https://github.com/andreevakamilla/ml_oriented/blob/main/titanic/titanic.ipynb)
 
 [исследование на основе датасета с сайта yelp](https://github.com/andreevakamilla/ml_oriented/blob/main/yelp.ipynb)
 
